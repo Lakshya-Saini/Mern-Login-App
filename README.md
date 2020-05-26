@@ -1,16 +1,16 @@
-MERN Stack Login App with Redux and Passport & JWT Authenticaation.
+MERN Stack Login App with Redux and Passport & JWT Authentication.
 
 ## How to use
 
 1. Clone this github repo or simply download all files.
 
-### `git clone https://github.com/Lakshya-Saini/MERN_Stack_Login_App.git`
+> git clone https://github.com/Lakshya-Saini/MERN_Stack_Login_App.git
 
 2. Install dependencies
 
-### `cd client && npm i`
+> cd client && npm i
 
-### `cd server && npm i`
+> cd server && npm i
 
 3. Create a mongodb database and paste URI in **config/keys.js**
 
@@ -19,14 +19,14 @@ MERN Stack Login App with Redux and Passport & JWT Authenticaation.
 
 4. Run App
 
-### `npm run dev`
+> npm run dev
 
 > It will basically run both the servers(react & node) at the same time.
 > If it fails in your terminal then simply run both servers individually
 
-### `cd server && npm run server`
+> cd server && npm run server
 
-### `cd client && npm start`
+> cd client && npm start
 
 ## Tech
 
